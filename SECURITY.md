@@ -1,6 +1,6 @@
 # Security
 
-Report vulnerabilities privately through **Security → Report a vulnerability** in the affected repository. Include the affected version or commit, reproduction steps, and the potential impact.
+Report vulnerabilities privately through [IceRoot's security reporting page](https://github.com/iceroot-network/.github/security/advisories/new). Include the affected repository, version or commit, reproduction steps, and the potential impact.
 
 Do not include private keys, recovery phrases, signing credentials, or personal information. Use a test account and a local or test network when reproducing a wallet or transaction issue.
 
