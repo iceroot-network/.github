@@ -6,7 +6,7 @@ import subprocess
 from urllib.parse import unquote, urlsplit
 
 root = Path.cwd().resolve()
-files = [Path(p) for p in subprocess.check_output(["git", "ls-files", "-z"]).decode().split("\0") if p]
+files = [Path(p) for p in subprocess.check_output(["git", "ls-files", "--cached", "--others", "--exclude-standard", "-z"]).decode().split("\0") if p]
 errors = []
 for file in files:
     if file.suffix == ".json":
