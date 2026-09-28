@@ -15,7 +15,8 @@ For ordinary bugs with no security effect and for feature requests, use the affe
 ## Research rules and safe harbour
 
 - Test with test accounts on your own local network or a private devnet, and test site code on a local copy.
-- Do not test against mainnet, the public testnet, nodes run by other people, or live websites.
+- Do not test against mainnet, nodes run by other people, or live websites.
+- The relaunched public testnet, once it runs, is the exception for its validators: it is meant to be attacked and broken, and they are encouraged to crash nodes and look for attack vectors there. Report what you find privately under this policy.
 - Do not access, change or take other people's data, keys or funds. Do not use social engineering, physical attacks, or denial of service against shared services.
 - Stop testing and report once you have a working reproduction.
 
