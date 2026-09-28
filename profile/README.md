@@ -35,4 +35,6 @@ Start with the [developer guides](https://docs.iceroot.com/developers/overview/)
 
 [Documentation index — llms.txt](https://docs.iceroot.com/llms.txt)
 
+Security reports, bug reports and merged contributions can earn provisional ROOT rewards. Read the [bounty rules](https://github.com/iceroot-network/.github/blob/prod/CONTRIBUTING.md#bounties), and [report vulnerabilities privately](https://github.com/iceroot-network/.github/security/advisories/new).
+
 [Brand assets and design system](https://github.com/iceroot-network/mediakit) · [Contributing](https://github.com/iceroot-network/.github/blob/prod/CONTRIBUTING.md) · [Security](https://github.com/iceroot-network/.github/blob/prod/SECURITY.md)
